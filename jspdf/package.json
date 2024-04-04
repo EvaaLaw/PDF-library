@@ -1,0 +1,10 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "to test generate pdf",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "jspdf": "^2.5.1"
+  }
+}
